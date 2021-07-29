@@ -27,8 +27,8 @@
 <div>
   <a href="https://www.linkedin.com/in/waldineyromero/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://twitter.com/wrf_romero" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/wrf_romero?style=for-the-badge"></a> 
-  <a href="https://www.youtube.com/channel/UCwVrldv638DB0GJ6I95-eog" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-   <a href="https://www.instagram.com/waldiney_romero" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <!--<a href="https://www.youtube.com/channel/UCwVrldv638DB0GJ6I95-eog" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/waldiney_romero" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
 <!--<a href="https://discord.gg/mWfxppJE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
 </div>
   
