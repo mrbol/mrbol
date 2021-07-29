@@ -1,6 +1,6 @@
 ### Olá! Eu sou Waldiney Romero
 
-- 🔭 Hoje trabalho com Frameork .NET 
+- 🔭 Hoje trabalho com Frameork .NET C#
 - 🌱 Cursando Ignite da Rocketseat na Trilha React Native
 - 📫 Linkedin https://www.linkedin.com/in/waldineyromero/
 
