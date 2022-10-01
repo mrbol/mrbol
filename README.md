@@ -1,3 +1,4 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 ### Olá! Eu sou Waldiney Romero
 
 - 🔭 Hoje trabalho com .NET C#
