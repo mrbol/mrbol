@@ -1,11 +1,9 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 ### Olá! Eu sou Waldiney Romero
 
 - 🔭 Hoje trabalho com .NET C#
 - 🌱 Cursando Ignite da Rocketseat na Trilha React Native
 - 📫 Linkedin https://www.linkedin.com/in/waldineyromero/
-<div><div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="waldineyromero" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/waldineyromero?trk=profile-badge">Waldiney Romero Fernandes</a></div>
-              </div>
+
 <div>
   <a href="https://github.com/mrbol">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrbol&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
