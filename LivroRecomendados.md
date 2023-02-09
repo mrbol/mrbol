@@ -6,3 +6,5 @@
 |<a href="https://amzn.to/3TCW6NE" ><img src="https://m.media-amazon.com/images/I/4125lRe2M9L._SX347_BO1,204,203,200_.jpg" border="0" height="150"/></a>|[Refatoração: Aperfeiçoando o Design de Códigos Existentes Capa comum](https://a.co/d/b5ToohP)|
 |<a href="https://a.co/d/cKG8hJc" ><img src="https://m.media-amazon.com/images/I/51KHSpNSITL.jpg" border="0" height="150"/></a>|[Trabalho Eficaz com Código Legado](https://a.co/d/cKG8hJc)|
 |<a href="https://a.co/d/2Q50LUw" ><img src="https://m.media-amazon.com/images/I/41T8NdKFqEL._SX352_BO1,204,203,200_.jpg" border="0" height="150"/></a>|[Arquitetura limpa: O guia do artesão para estrutura e design de software](https://a.co/d/2Q50LUw)|
+|<a href="https://a.co/d/4JqJmZm" ><img src="https://m.media-amazon.com/images/I/51X+r+OdV3L.jpg" border="0" height="150"/></a>|[Patterns of Enterprise Application Architecture](https://a.co/d/4JqJmZm)|
+|<a href="https://a.co/d/0w1bEjJ" ><img src="https://m.media-amazon.com/images/I/518mHAD6ZKL._SX323_BO1,204,203,200_.jpg" border="0" height="150"/></a>|[Implementando Domain-Driven Design Capa comum](https://a.co/d/0w1bEjJ)|
