@@ -2,8 +2,8 @@
 
 - 🔭 Hoje trabalho com .NET C#
 - 🌱 Cursando Ignite da Rocketseat na Trilha React Native
-- 📫 Linkedin https://www.linkedin.com/in/waldineyromero/
 - 📒 Lista de livros recomendados : [LivrosRecomendados.md](https://github.com/mrbol/mrbol/blob/main/LivroRecomendados.md)
+- 📫 Linkedin https://www.linkedin.com/in/waldineyromero/
 
 <div>
   <a href="https://github.com/mrbol">
