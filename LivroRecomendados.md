@@ -10,3 +10,4 @@
 |<a href="https://a.co/d/0w1bEjJ" ><img src="https://m.media-amazon.com/images/I/518mHAD6ZKL._SX323_BO1,204,203,200_.jpg" border="0" height="150"/></a>|[Implementando Domain-Driven Design Capa comum](https://a.co/d/0w1bEjJ)|
 |<a href="https://a.co/d/eGsPlHc" ><img src="https://m.media-amazon.com/images/I/51bO3rI8hEL._SX348_BO1,204,203,200_.jpg" border="0" height="150"/></a>|[Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos](https://a.co/d/eGsPlHc)|
 |<a href="https://a.co/d/3YYHHb2" ><img src="https://m.media-amazon.com/images/I/51IJ3hrEWQL._SX404_BO1,204,203,200_.jpg" border="0" height="150"/></a>|[Padrões, Princípios e Práticas de Design Orientado a Domínio](https://a.co/d/3YYHHb2)|
+|<a href="https://a.co/d/bHjXhsz" ><img src="https://m.media-amazon.com/images/I/41cnX+sEbFL._SX397_BO1,204,203,200_.jpg" border="0" height="150"/></a>|[Microservices Patterns: With Examples in Java Capa](https://a.co/d/bHjXhsz)|
