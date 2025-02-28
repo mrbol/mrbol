@@ -1,7 +1,6 @@
 ### Olá! Eu sou Waldiney Romero
 
 - 🔭 Hoje trabalho com .NET C#
-- 🌱 Cursando Pós-Graduação em Engenharia de Software na PUC-RIO
 - 📒 Lista de livros recomendados : [LivrosRecomendados.md](https://github.com/mrbol/mrbol/blob/main/LivroRecomendados.md)
 - 📫 Linkedin https://www.linkedin.com/in/waldineyromero/
 
